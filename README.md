@@ -1,11 +1,13 @@
-## Hi there 👋 I'm Febin Micheal Antony
+## Hi there 👋 I'm Febin
 
 <span>I'm a rational thinker with a scientific temperament and an open mind</span>
 
 <img src="https://komarev.com/ghpvc/?username=febin-micheal&label=Profile%20views&color=0e75b6&style=flat" alt="febin-micheal" />
 
-<div>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=febin-micheal&theme=react&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=00DDA4" width="421px" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=febin-micheal&theme=react&layout=compact&langs_count=8&hide_border=true)
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=febin-micheal&theme=react&show_icons=false&count_private=true&hide_border=true" width="421px" />
-</div>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=febin-micheal&theme=react&show_icons=true&count_private=true&hide_border=true)
+
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=febin-micheal&theme=react&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=00DDA4)
+
+![Github activity graph](https://activity-graph.herokuapp.com/graph?username=febin-micheal&theme=react-dark&hide_border=true&area=true)
